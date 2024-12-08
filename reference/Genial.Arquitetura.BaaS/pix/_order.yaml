@@ -1,5 +1,4 @@
 - getv1pixreceiptendtoendid
-- getv1pixreceiptreturnendtoendid
 - postv1pixqrcodestatic
 - getv1pixqrcodedecode
 - postv1pixqrcodedynamic
