@@ -1,0 +1,11 @@
+- deletev1schedulescheduleid
+- getv1schedulefilter
+- postv1scheduleted
+- putv1scheduletedscheduleid
+- getv1scheduletedscheduleid
+- postv1scheduletef
+- putv1scheduletefscheduleid
+- getv1scheduletefscheduleid
+- postv1schedulesalary
+- putv1schedulesalaryscheduleid
+- getv1schedulesalaryscheduleid

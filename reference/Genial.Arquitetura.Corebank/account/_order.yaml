@@ -1,0 +1,16 @@
+- getv1accountagencyaccount
+- getv1account
+- getv1accountconsolidatedagencyaccountindfuturo
+- getv1accountstatementagencyaccount
+- postv1accountagencyaccountlaunches
+- deletev1accountagencyaccountlaunches
+- postv1accounttransfer
+- postv1accounttef
+- getv1accountreceipttefiddebit
+- getv1accountblockreason
+- getv1accountblockagencyaccount
+- postv1accountblockagencyaccountidreason
+- deletev1accountblockagencyaccountidreason
+- postv1accountdeactivationagencyaccount
+- postv1accountactivationagencyaccount
+- getv1accountcnab240agencyaccountstartdateenddate
