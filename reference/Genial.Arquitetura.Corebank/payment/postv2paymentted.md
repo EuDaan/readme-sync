@@ -2,6 +2,6 @@
 title: Realizar pagamento ted
 api:
   file: readme-hml-corebank.json
-  operationId: post_v1-payment-ted
+  operationId: post_v2-payment-ted
 hidden: false
 ---
