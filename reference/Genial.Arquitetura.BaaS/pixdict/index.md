@@ -12,7 +12,7 @@ Esta documentação tem como objetivo esclarecer os serviços expostos sobre as 
 
 **Homologação**
 
-> * URL: [https://gerador-arquitetura-baas.homolog.api.genial.systems](https://gerador-arquitetura-baas.homolog.api.genial.systems)
+* URL: [https://gerador-arquitetura-baas.homolog.api.genial.systems](https://gerador-arquitetura-baas.homolog.api.genial.systems)
 
 **Cabeçalho obrigatório**
 
