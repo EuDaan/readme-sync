@@ -1,5 +1,5 @@
 ---
-title: Chave PIX
+title: CHAVE PIX
 hidden: false
 ---
 # Chave PIX – DICT 2.0
