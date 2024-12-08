@@ -1,0 +1,11 @@
+- postv1pixsendinitialization
+- postv1pixsendconfirmed
+- postv1pixsendmanual
+- getv1pixstatuscallbackendtoendid
+- postv1pixreturn
+- getv1pixreceiptendtoendid
+- getv1pixreceiptreturnendtoendid
+- postv1pixqrcodestatic
+- getv1pixqrcodedecode
+- postv1pixqrcodedynamic
+- postv1pixcopypaste
