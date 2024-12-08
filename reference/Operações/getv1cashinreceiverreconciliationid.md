@@ -1,5 +1,5 @@
 ---
-title: Consultar operação Cashin por Receiver Reconciliation
+title: Consultar Deposito de QRCODE por Receiver Reconciliation
 api:
   file: readme-hml-operations.json
   operationId: get_v1-cashin-receiver-reconciliation-id
