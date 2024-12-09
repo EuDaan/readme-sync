@@ -1,5 +1,5 @@
 ---
-title: Gera comprovante de um pagamento de DARF manual
+title: Gerar comprovante de um pagamento de DARF manual
 api:
   file: readme-hml-corebank.json
   operationId: get_v1-payment-darf-manual-idpayment-receipt
