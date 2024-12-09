@@ -1,7 +1,5 @@
 ---
-title: >-
-  Buscar registros de Tefs de crédito ou débito de uma agência/conta referente a
-  data informada.
+title: Buscar registros de TEF - Credito ou Debito
 api:
   file: readme-hml-corebank.json
   operationId: get_v1-operations-tef-agency-account-date-launchtype
