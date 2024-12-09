@@ -25,6 +25,7 @@ hidden: false
 
 * IMMEDIATO
   * O QR Code Imediato é um tipo de QR Code dinâmico utilizado em transações financeiras, especialmente no sistema de pagamentos PIX no Brasil. Ele é gerado no momento da transação e contém informações específicas e detalhadas para aquele pagamento único.
+  <br />
 * Billing Due Date
   * PIX Cobrança é um serviço que permite a geração de cobranças com vencimento utilizando o sistema de pagamentos instantâneos do Brasil, PIX. Ele facilita a emissão de boletos eletrônicos e QR Codes para pagamentos, proporcionando maior agilidade e eficiência nas transações financeiras, além de reduzir custos operacionais para empresas e consumidores.
   * Ainda é possível criar um ou mais PIX Cobranças em lote em uma única requisição. Isso gera uma lista de itens na resposta da API, facilitando o controle das cobranças dentro da sua regra de negócio.
