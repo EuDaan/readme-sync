@@ -5,12 +5,31 @@ api:
   operationId: get_v2-pix-key-account-partner-agency-account-key
 hidden: false
 ---
-## Explicação
+## Sobre
 
-A função deste serviço é pesquisar uma chave PIX atreladas a diversas contas bancarias cadastradas no sistema bancario do Banco Central do Brasil. A solicitação recebe as informações da conta original e a chave desejada. O resultado são as informações da chave, da conta e um novo End-to-end para ser utilizado em uma operação de envio pix. Este endpoint usa uma lógica de bucket para evitar bloqueios vindos do Banco Central do Brasil.
+A chave PIX é um identificador utilizado no sistema de pagamentos instantâneos brasileiro, o PIX,que foi desenvolvido pelo Banco Central do Brasil. Lançado em novembro de 2020, o PIX permite
+transferências de dinheiro entre contas bancárias em questão de segundos, funcionando 24 horas por
+dia, sete dias por semana, incluindo feriados.
 
-**URL** : `/v2/pix/key-account-partner/{agency}/{account}/{key}`
+A chave PIX serve como um "apelido" para as contas bancárias, simplificando o processo de envio e
+recebimento de dinheiro. Em vez de precisar de vários dados bancários, como número de agência e
+conta, o usuário só precisa fornecer uma chave PIX. Essas chaves podem ser associadas a diferentes
+tipos de informações: CPF/CNPJ, número de telefone celular, endereço de e-mail ou um código
+aleatório gerado pelo próprio sistema. Cada chave pode estar vinculada a apenas uma conta bancária,
+mas uma conta pode ter várias chaves diferentes associadas a ela.
 
-**Método** : `GET`
+## Como Funciona
 
-**Autenticação necessária** : `YES - JWT`
+O funcionamento da chave PIX é bastante simples e eficiente. Aqui estão os principais passos ecomponentes envolvidos:
+
+* **Cadastro da Chave PIX:**O usuário deve cadastrar uma ou mais chaves PIX em sua instituição financeira. Isso pode ser feito
+  através do aplicativo do banco ou pelo internet banking. Durante o cadastro, o usuário escolhe o
+  tipo de chave que deseja usar (CPF/CNPJ, número de telefone, e-mail ou chave aleatória) e a
+  associa à sua conta bancária.
+* **Envio de Dinheiro:**Para enviar dinheiro usando o PIX, o pagador precisa apenas da chave PIX do recebedor. Ele insere
+  essa chave no campo apropriado no aplicativo do banco, especifica o valor a ser transferido e
+  confirma a operação. Não há necessidade de informar outros dados bancários.
+* **Recebimento de Dinheiro:**É possível também receber dinheiro pela chave PIX, basta apenas informa-la ao pagador. O
+  recebedor receberá uma notificação instantânea da transação quando ocorrida.
+* **Alteração ou Exclusão de Chaves:**O usuário pode alterar ou excluir suas chaves PIX a qualquer momento. Isso oferece flexibilidade e
+  controle sobre como ele deseja gerenciar suas informações de pagamento.
