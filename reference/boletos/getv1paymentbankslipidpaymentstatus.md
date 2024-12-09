@@ -1,5 +1,5 @@
 ---
-title: Consulta status do pagamento de boletos através do ID Pagamento
+title: Buscar status BOLETO
 api:
   file: readme-hml-corebank.json
   operationId: get_v1-payment-bankslip-idpayment-status
