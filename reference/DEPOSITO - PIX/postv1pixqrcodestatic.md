@@ -13,3 +13,5 @@ hidden: false
 
 * Simplicidade: Fácil de gerar e utilizar, não requer a criação de um novo código para cada transação.
 * Acessibilidade: Pode ser impresso e afixado em locais visíveis, como caixas de lojas, mesas de restaurantes ou banners de eventos.
+
+#
