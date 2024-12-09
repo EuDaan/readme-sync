@@ -1,5 +1,5 @@
 ---
-title: Buscar as transações Ted no Mongo
+title: Buscar SAQUE TED no banco
 api:
   file: readme-hml-corebank.json
   operationId: get_v2-operations-ted-idliquidacao
