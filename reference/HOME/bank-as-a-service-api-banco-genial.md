@@ -5,4 +5,4 @@ hidden: false
 metadata:
   robots: index
 ---
-Testando conteudo.
+# Bem Vindo!
