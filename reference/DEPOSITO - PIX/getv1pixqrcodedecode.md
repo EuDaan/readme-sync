@@ -7,6 +7,8 @@ hidden: false
 ---
 ## Sobre
 
+Este serviço realiza a decodificação de QR Codes gerados ou recebidos, fornecendo informações essenciais para conciliação de dados e pagamento via copy-paste, caso necessário. A resposta inclui dados bancários associados, valores e configurações preparatórias para liquidação.
+
 **Funcionalidades:**
 
 * Retorna informações úteis para a conciliação de dados.
