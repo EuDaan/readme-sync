@@ -1,5 +1,5 @@
 ---
-title: Consultar Chave PIX na Whitelist Genial
+title: Consultar Chave PIX na White List
 api:
   file: readme-hml-operations.json
   operationId: get_v1-dict-pix-white-list-key-keytype

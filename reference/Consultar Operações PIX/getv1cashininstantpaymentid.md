@@ -1,5 +1,5 @@
 ---
-title: Buscar Deposito por InstantPaymentId
+title: Consultar CashIn por InstantPaymentId
 api:
   file: readme-hml-operations.json
   operationId: get_v1-cashin-instant-payment-id-id

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Buscar Deposito de Devolução por OriginalEndToEndId e Período (Busca somente
+  Consultar Cashin de Devolução por OriginalEndToEndId e Período (Busca somente
   por um dia)
 api:
   file: readme-hml-operations.json
