@@ -7,4 +7,4 @@ hidden: false
 ---
 ## Sobre
 
-Serviço API para consultar o registro de uma TEF processado pela API COREBANK da Genial.
+Serviço API para consultar o registro de uma TEF processada pela API COREBANK da Genial.
