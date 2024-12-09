@@ -1,0 +1,10 @@
+- postv1paymentdarf
+- postv1paymentdarfmanual
+- getv1paymentdarfmanualidpaymentstatus
+- getv1paymentdarfmanualidpaymentreceipt
+- getv1paymentreceipttedidliquidacao
+- getv1paymentbankslipconsumptionidentificador
+- postv1paymentbankslip
+- getv1paymentbankslipidpaymentstatus
+- getv1paymentbankslipidpaymentreceipt
+- postv2paymentted
