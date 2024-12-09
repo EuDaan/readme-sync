@@ -1,7 +1,7 @@
 - postv2paymentted
 - getv2operationstedidliquidacao
-- getv1paymentreceipttedidliquidacao
 - getv1operationsstatusagencyaccountdatetype
 - getv1operationsstatusagencyaccountidliquidacao
 - getv1operationscashinagencyaccountlaunchdate
+- getv1paymentreceipttedidliquidacao
 - getv1corebankingbusinessdaydate
