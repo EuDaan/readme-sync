@@ -42,21 +42,6 @@ Os envios acontecem por duas modalidades, relacionados abaixo:
 * Manual
 * Inicialização e Confirmação
 
-## Manual
-
-O envio manual de PIX é um processo em que não se utiliza uma chave PIX específica (como CPF, e-mail ou telefone). Em vez disso, é necessário fornecer todos os dados bancários do recebedor para completar a transação.
-
-**Dados Necessários para o Envio Manual:**\
-Nome do recebedor
-Agência
-Conta
-Tipo de conta (corrente ou poupança)
-Documento (CPF/CNPJ)
-ISPB (Identificador do Sistema de Pagamentos Brasileiro, um código único para cada instituição financeira)
-
-**Requisição:**\
-Etapa de pagamento: Apenas uma requisição é necessária. Todos os dados mencionados acima são informados em uma única etapa, e a transferência é processada de uma vez.
-
 ## Envio com Inicialização e Confirmação
 
 Neste formato, a transferência é feita utilizando apenas a chave PIX do recebedor, simplificando o processo e minimizando a necessidade de inserir vários dados.
