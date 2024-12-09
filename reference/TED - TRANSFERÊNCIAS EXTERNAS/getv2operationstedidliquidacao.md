@@ -1,5 +1,5 @@
 ---
-title: Buscar SAQUE TED
+title: Consultar SAQUE TED
 api:
   file: readme-hml-corebank.json
   operationId: get_v2-operations-ted-idliquidacao
