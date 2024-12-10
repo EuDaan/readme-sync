@@ -29,7 +29,7 @@ PIX é um sistema de pagamentos instantâneos criado pelo Banco Central do Brasi
 
 ## Vantagens
 
-* Velocidade: As transferências são concluídas em até 10 segundos, independente do dia ou horário.
+* Velocidade: As transferências são concluídas em até 1 segundos, independente do dia ou horário.
 * Disponibilidade: Funciona 24/7, inclusive em finais de semana e feriados.
 * Segurança: O PIX utiliza mecanismos avançados de segurança, como autenticação multifator e criptografia.
 * Praticidade: O uso de chaves PIX simplifica o processo de transferência, eliminando a necessidade de fornecer diversos dados bancários.
