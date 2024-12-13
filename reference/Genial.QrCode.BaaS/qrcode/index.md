@@ -1,0 +1,4 @@
+---
+title: QrCode
+hidden: false
+---
