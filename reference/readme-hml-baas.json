@@ -1854,6 +1854,10 @@
           "additionalInformation": {
             "type": "string",
             "nullable": true
+          },
+          "historicComplement": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
